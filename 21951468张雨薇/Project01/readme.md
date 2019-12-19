@@ -14,4 +14,4 @@
 
 ## 3.实现成果
 
-![](results\result.gif)
+![](results/result.gif)
